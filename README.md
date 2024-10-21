@@ -5,15 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparxastronomy&label=Profile%20views&color=0e75b6&style=flat" alt="sparxastronomy" /> </p>
 
-- 🌱 I’m a Master's Student at IISER Kolkata at the Dept. of Physical Sciences
+🌱 I’m doing my PhD at MPIA, developing new cosmological simulations, studying turbulence in galaxy clusters, and using ML for efficient simulations.
 
-- 👀 I’m interested in Computational Cosmology, ML and Quantitative Finance  
-
-- 🔭 I’m currently working on **understanting PopIII stars**
+- 👀 I’m also interested in, ML and Quantitative Finance  
 
 - 👯 I’m looking to collaborate to **develop new generation of Cosmological Simulatations** and on projects Related to **Quantitative Finance**
 
-- 📫 Reach me out on GitHub, or by Email: [sparxastronomy@gmail.com](mailto:sparxastronomy@gmail.com)
+- 📫 Reach me out on GitHub, or by Email: [sparxastronomy@gmail.com](mailto:sparxastronomy@gmail.com) or [bisaha@mpia.de](mailto:bisaha@mpia.de)
 <p align="left">
 </p>
 
