@@ -21,7 +21,7 @@
 
 ![sparxastronomy's Stats](https://github-readme-stats.vercel.app/api?username=sparxastronomy&theme=dracula&show_icons=true&hide_border=false&count_private=true)    
 
-![sparxastronomy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sparxastronomy&theme=dracula&hide_border=false)    
+[![Sparxastronomy's Streak](https://streak-stats.demolab.com?user=sparxastronomy&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
 ![sparxastronomy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sparxastronomy&theme=dracula&show_icons=true&hide_border=false&layout=compact)    
 
