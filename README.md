@@ -19,11 +19,11 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 
-![sparxastronomy's Stats](https://github-readme-stats.vercel.app/api?username=sparxastronomy&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+![sparxastronomy's Stats](https://github-readme-stats.vercel.app/api?username=sparxastronomy&theme=dracula&show_icons=true&hide_border=false&count_private=true)    
 
-![sparxastronomy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sparxastronomy&theme=dracula&hide_border=false)
+![sparxastronomy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sparxastronomy&theme=dracula&hide_border=false)    
 
-![sparxastronomy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sparxastronomy&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+![sparxastronomy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sparxastronomy&theme=dracula&show_icons=true&hide_border=false&layout=compact)    
 
 
 <!---
