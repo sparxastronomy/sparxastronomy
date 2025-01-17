@@ -9,7 +9,7 @@
 
 - 👀 I’m also interested in, ML and Quantitative Finance  
 
-- 👯 I’m looking to collaborate to **develop new generation of Cosmological Simulatations** and on projects Related to **Quantitative Finance**
+- 👯 I’m open to collaboration **develop new generation of Cosmological Simulatations** and on projects Related to **Quantitative Finance**
 
 - 📫 Reach me out on GitHub, or by Email: [sparxastronomy@gmail.com](mailto:sparxastronomy@gmail.com) or [bisaha@mpia.de](mailto:bisaha@mpia.de)
 <p align="left">
